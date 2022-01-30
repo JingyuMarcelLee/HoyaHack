@@ -9,6 +9,8 @@
 [lic_badge]: https://img.shields.io/badge/License-GPL%203.0-success
 [lic_href]: https://github.com/gear-tech/apps/blob/master/LICENSE
 
+**Files in nft example folder has been modified to include royalty paying functions**
+
 ## Prebuilt Binaries
 
 Raw, optimized, and meta WASM binaries can be found in the [Releases section](https://github.com/gear-tech/apps/releases/tag/build).
