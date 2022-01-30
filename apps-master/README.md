@@ -9,7 +9,7 @@
 [lic_badge]: https://img.shields.io/badge/License-GPL%203.0-success
 [lic_href]: https://github.com/gear-tech/apps/blob/master/LICENSE
 
-**Files in nft example folder has been modified to include royalty paying functions**
+**Files in nft example folder have been modified to include royalty paying functions**
 
 ## Prebuilt Binaries
 
